@@ -58,10 +58,7 @@ To grow as a **Data Scientist**, building impactful solutions that combine stati
 ## 📫 Connect With Me
 
 📧 Email: [adrijasengupta39@gmail.com](mailto:adrijasengupta39@gmail.com)
-🔗 LinkedIn: ## 👋 Hi, I'm Adrija Sengupta
-
-🎓 **Statistics Postgraduate** passionate about transforming data into meaningful insights and real-world solutions.
-📊 Currently exploring **Data Science, Machine Learning, and Predictive Analytics** with a strong foundation in statistical modelling.
+🔗 LinkedIn: https://www.linkedin.com/in/adrija-sengupta/
 
 
 ✨ *“Data is powerful — but meaningful insights make it impactful.”*
