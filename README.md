@@ -8,7 +8,6 @@
 
 [linkedin]: https://www.linkedin.com/in/adrija-sengupta/
 <br />
-<br />
 ---
 
 ## 🚀 What I Do
