@@ -4,6 +4,10 @@
 🎓 **Statistics Postgraduate** passionate about transforming data into meaningful insights and real-world solutions.
 📊 Currently exploring **Data Science, Machine Learning, and Predictive Analytics** with a strong foundation in statistical modelling.
 
+Resume --> [Resume]
+ 
+[Resume]: https://drive.google.com/file/d/1bOWw8XR3yjcmjEtod-d-gQhnTfaA-UDm/view?usp=drive_link
+
  [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 [linkedin]: https://www.linkedin.com/in/adrija-sengupta/
